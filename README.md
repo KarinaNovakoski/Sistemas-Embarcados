@@ -1,2 +1,2 @@
-# Sistemas-Embarcados-
-Aulas sobre git
+# Pessoal-
+Aulas e horários
